@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from typing import Final
 from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, CommandHandler, ContextTypes
